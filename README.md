@@ -1,7 +1,7 @@
 ### Hey!  I'm Thommas Kevin
 
 - 📘 PhD student in Electrical and Computer Engineering
-- 🧠 Machine Learning in industrial processes
+- 🧠 Machine Learning for industrial processes
 - 🤯 Python developer
 - 🚗 TinyML developer for automotive systems
 - 💠 IoT system developer
