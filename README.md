@@ -5,7 +5,6 @@
 - 🤯 Python developer
 - 🚗 TinyML developer for automotive systems
 - 💠 IoT system developer
-- 📱 Flutter student
 
 <div align="center">
   <a href="https://github.com/thommaskevin">
