@@ -1,6 +1,6 @@
-### Hey!  I'm Thommas Kevin
+### Hey!  I'm Thommas K. S. Flores
 
-- 📘 PhD student in Electrical and Computer Engineering
+- 📘 Assistant Professor At Federal University of Rio Grande do Norte (UFRN), Brazil
 - 🧠 Machine Learning for industrial processes
 - 🤯 Python developer
 - 🚗 TinyML developer for automotive systems
